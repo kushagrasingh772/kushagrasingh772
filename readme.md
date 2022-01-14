@@ -31,4 +31,4 @@
 
 [![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagrasingh772&show_icons=true&theme=radical)](https://github.com/kushagrasingh772)
 
-![snake gif](https://github.com/kushagrasingh772/kushagrasingh772/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kushagrasingh772/blob/output/github-contribution-grid-snake.svg)
