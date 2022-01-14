@@ -20,7 +20,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kushagra-singh-16ba661a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://www.instagram.com/kushagra___singh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anand.priyam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kushagra-singh-16ba661a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://www.instagram.com/kushagra___singh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushagra___singh" height="30" width="40" /></a>
 
 </p>
 
@@ -29,6 +29,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kushagrasingh772&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=D83A7C&background=141321)](https://git.io/streak-stats)
 
-[![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagrasingh772&show_icons=true&theme=radical)](https://github.com/kushagrasingh772)
+[![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagrasingh772&show_icons=true&theme=radical)](https://github.com/kushagrasingh772)
 
-
+![snake gif](https://github.com/kushagrasingh772/kushagrasingh772/blob/output/github-contribution-grid-snake.svg)
