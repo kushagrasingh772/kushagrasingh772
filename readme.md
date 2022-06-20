@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Kushagra Singh</h2>
-<h1 align="center">A Kaggle Expert, Data Science Analyst and a BlockChain Developer</h1>
+<h1 align="center">A Kaggle Expert, Data Analyst and a BlockChain Developer</h1>
 
 
 - 🔭 I’m a Pre Final Year student from **Jaypee Institute Of Information Technology, Noida**
