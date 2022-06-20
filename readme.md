@@ -2,11 +2,11 @@
 <h1 align="center">A Kaggle Expert, Data Analyst and a BlockChain Developer</h1>
 
 
-- 🔭 I’m a Pre Final Year student from **Jaypee Institute Of Information Technology, Noida**
+- 🔭 I’m a Final Year student from **Jaypee Institute Of Information Technology, Noida**
 
 - 🌱 I’m currently learning **Blockchain, Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Blockchain and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Blockchain, Data Science and Machine Learning Projects**
 
 - 💬 Ask me about **Blockchain, Data Science, Python, Machine Learning, Natural Language Processing.**
 
