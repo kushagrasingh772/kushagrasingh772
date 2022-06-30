@@ -14,6 +14,8 @@
 
 - My kaggle profile: https://www.kaggle.com/perkymaster
 
+- My portfolio: https://kushagrasingh-portfolio.netlify.app/
+
 <h3 align="left">Connect with me:</h3>
 
 
