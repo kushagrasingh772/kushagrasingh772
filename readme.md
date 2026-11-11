@@ -1,36 +1,37 @@
-<h2 align="center">Hi 👋, I'm Kushagra Singh</h2>
-<h1 align="center">A Kaggle Expert, Data Analyst and a BlockChain Developer</h1>
-
-
-- 🔭 I’m a Final Year student from **Jaypee Institute Of Information Technology, Noida**
-
-- 🌱 I’m currently learning **Blockchain, Data Science and Machine Learning**
-
-- 👯 I’m looking to collaborate on **Blockchain, Data Science and Machine Learning Projects**
-
-- 💬 Ask me about **Blockchain, Data Science, Python, Machine Learning, Natural Language Processing.**
-
-- 📫 How to reach me: kushagrasingh772@gmail.com
-
-- My kaggle profile: https://www.kaggle.com/perkymaster
-
-- My portfolio: https://kushagrasingh-portfolio.netlify.app/
-
-<h3 align="left">Connect with me:</h3>
-
-
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/kushagra-singh-16ba661a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://www.instagram.com/kushagra___singh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushagra___singh" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="./assets/banner.svg" alt="Kushagra Singh — ServiceNow Developer, learning AI" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-ServiceNow%20Developer-FCEE0A?style=for-the-badge&labelColor=0B0B10" alt="Role: ServiceNow Developer" />
+  <img src="https://img.shields.io/badge/LEARNING-AI-2DF5FF?style=for-the-badge&labelColor=0B0B10" alt="Learning: AI" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20connect-FF2A6D?style=for-the-badge&labelColor=0B0B10" alt="Status: open to connect" />
+</p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrasingh772&layout=compact&theme=radical)](https://github.com/kushagrasingh772) -->
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: role — ServiceNow Developer; learning — more things AI; status — open to connect" width="720" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kushagrasingh772&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=D83A7C&background=141321)](https://git.io/streak-stats)
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-[![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagrasingh772&show_icons=true&theme=radical)](https://github.com/kushagrasingh772)
+### `> WHOAMI`
 
+Hi 👋, I'm **Kushagra Singh**.
 
+- 💼 Professionally, I am a **ServiceNow Developer**
+- 🌱 I am trying to learn more things **AI**
+- 📫 Reach out to me: **[kushagrasingh772@gmail.com](mailto:kushagrasingh772@gmail.com)**
+- 🌐 My portfolio: **https://kushagrasingh-portfolio.netlify.app/**
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+### `> CONNECT`
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kushagra-singh772/"><img src="https://img.shields.io/badge/LINKEDIN-kushagra--singh772-2DF5FF?style=for-the-badge&labelColor=0B0B10" alt="LinkedIn: kushagra-singh772" /></a>
+  <a href="mailto:kushagrasingh772@gmail.com"><img src="https://img.shields.io/badge/EMAIL-kushagrasingh772%40gmail.com-FF2A6D?style=for-the-badge&labelColor=0B0B10&logo=gmail&logoColor=FF2A6D" alt="Email: kushagrasingh772@gmail.com" /></a>
+  <a href="https://kushagrasingh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20site-FCEE0A?style=for-the-badge&labelColor=0B0B10" alt="Portfolio" /></a>
+  <a href="https://www.kaggle.com/perkymaster"><img src="https://img.shields.io/badge/KAGGLE-perkymaster-2DF5FF?style=for-the-badge&labelColor=0B0B10&logo=kaggle&logoColor=00F0FF" alt="Kaggle: perkymaster" /></a>
+</p>
+
+<img src="./assets/divider.svg" alt="" width="100%" />

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 210" width="800" height="210" role="img" aria-label="Terminal: role - ServiceNow Developer; learning - more things AI; status - open to connect">
+  <title>Terminal: role - ServiceNow Developer; learning - more things AI; status - open to connect</title>
+  <defs>
+    <style>
+      text { font-family: Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; font-size: 22px; }
+      /* Each line of text is hidden by a dark "cover" box. Sliding the box to the
+         right in small jumps makes the text look like it is being typed. The whole
+         thing repeats every 10 seconds. */
+      .cover { animation-duration: 10s; animation-iteration-count: infinite; }
+      .c1 { animation-name: t1; }
+      .c2 { animation-name: t2; }
+      .c3 { animation-name: t3; }
+      @keyframes t1 { 0% { transform: translateX(0); animation-timing-function: steps(28, end); } 20%, 100% { transform: translateX(700px); } }
+      @keyframes t2 { 0%, 25% { transform: translateX(0); animation-timing-function: steps(28, end); } 45%, 100% { transform: translateX(700px); } }
+      @keyframes t3 { 0%, 50% { transform: translateX(0); animation-timing-function: steps(28, end); } 70%, 100% { transform: translateX(700px); } }
+      /* the yellow cursor is only shown on the line being typed */
+      .cur { animation-duration: 10s; animation-iteration-count: infinite; animation-timing-function: steps(1); }
+      .k1 { animation-name: k1; } .k2 { animation-name: k2; } .k3 { animation-name: k3; }
+      @keyframes k1 { 0% { opacity: 1; } 22%, 100% { opacity: 0; } }
+      @keyframes k2 { 0% { opacity: 0; } 25% { opacity: 1; } 47%, 100% { opacity: 0; } }
+      @keyframes k3 { 0% { opacity: 0; } 50% { opacity: 1; } 74% { opacity: 0; } 78% { opacity: 1; } 82% { opacity: 0; } 86% { opacity: 1; } 90% { opacity: 0; } 94% { opacity: 1; } 98%, 100% { opacity: 0; } }
+    </style>
+    <clipPath id="screen"><rect x="2" y="38" width="796" height="170"/></clipPath>
+  </defs>
+
+  <!-- window -->
+  <path d="M2 2H770L798 30V208H2Z" fill="#0B0B10" stroke="#FCEE0A" stroke-width="2"/>
+  <path d="M2 2H770L798 30V38H2Z" fill="#FCEE0A"/>
+  <text x="16" y="27" font-size="16" font-weight="700" fill="#0B0B10" letter-spacing="2" style="font-size:16px">KUSHAGRA.EXE</text>
+  <rect x="700" y="14" width="14" height="10" fill="#0B0B10"/>
+  <rect x="722" y="14" width="14" height="10" fill="#0B0B10"/>
+
+  <g clip-path="url(#screen)">
+    <!-- line 1 -->
+    <text x="30" y="85"><tspan fill="#FF2A6D">&gt; </tspan><tspan fill="#00F0FF">ROLE ....... </tspan><tspan fill="#FCEE0A">ServiceNow Developer</tspan></text>
+    <g class="cover c1"><rect x="28" y="60" width="800" height="36" fill="#0B0B10"/><rect class="cur k1" x="30" y="65" width="12" height="24" fill="#FCEE0A"/></g>
+
+    <!-- line 2 -->
+    <text x="30" y="130"><tspan fill="#FF2A6D">&gt; </tspan><tspan fill="#00F0FF">LEARNING ... </tspan><tspan fill="#FCEE0A">more things AI</tspan></text>
+    <g class="cover c2"><rect x="28" y="105" width="800" height="36" fill="#0B0B10"/><rect class="cur k2" x="30" y="110" width="12" height="24" fill="#FCEE0A"/></g>
+
+    <!-- line 3 -->
+    <text x="30" y="175"><tspan fill="#FF2A6D">&gt; </tspan><tspan fill="#00F0FF">STATUS ..... </tspan><tspan fill="#FCEE0A">open to connect</tspan></text>
+    <g class="cover c3"><rect x="28" y="150" width="800" height="36" fill="#0B0B10"/><rect class="cur k3" x="30" y="155" width="12" height="24" fill="#FCEE0A"/></g>
+  </g>
+
+  <!-- redraw the border so the sliding covers never hide it -->
+  <path d="M2 38V208H798V30" fill="none" stroke="#FCEE0A" stroke-width="2"/>
+</svg>
